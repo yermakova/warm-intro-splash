@@ -68,20 +68,20 @@
 }
 
 .btn-primary {
-  background-color: #64a19d;
+  background-color: #ad5140;
 }
 
 .btn-primary:hover {
-  background-color: #4f837f;
+  background-color: #884032;
 }
 
 .btn-primary:focus {
-  background-color: #4f837f;
+  background-color: #884032;
   color: white;
 }
 
 .btn-primary:active {
-  background-color: #467370 !important;
+  background-color: #75372b !important;
 }
 
 .signup-section {
@@ -109,12 +109,12 @@ body {
 }
 
 a {
-  color: #64a19d;
+  color: #ad5140;
 }
 
 a:focus, a:hover {
   text-decoration: none;
-  color: #3c6360;
+  color: #632e24;
 }
 
 .bg-black {
@@ -122,11 +122,11 @@ a:focus, a:hover {
 }
 
 .bg-primary {
-  background-color: #64a19d !important;
+  background-color: #ad5140 !important;
 }
 
 .text-primary {
-  color: #64a19d !important;
+  color: #ad5140 !important;
 }
 
 footer {
